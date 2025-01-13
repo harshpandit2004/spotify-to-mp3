@@ -1,0 +1,19 @@
+{
+  "name": "spotify-to-mp3",
+  "version": "1.0.0",
+  "description": "get list of songs from my spotify playlist and then download the mp3 version of it from youtube (or atleast thats the plan)",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshpandit2004/spotify-to-mp3.git"
+  },
+  "author": "0liver-knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshpandit2004/spotify-to-mp3/issues"
+  },
+  "homepage": "https://github.com/harshpandit2004/spotify-to-mp3#readme"
+}
